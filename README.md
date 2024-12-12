@@ -1,5 +1,3 @@
-# Modern Web Development Bootcamp Outline
-
 # Modern Web Development Bootcamp
 
 ## Bootcamp Overview

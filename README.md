@@ -1,7 +1,7 @@
 # Modern Web Development Bootcamp
 
 ## Bootcamp Overview
-This 3-day bootcamp is designed for beginners to intermediate-level participants who want to dive into modern web development. By the end of the bootcamp, attendees will have built a simple yet functional web application and deployed it online.
+This 3-day bootcamp is designed for beginners to intermediate-level participants who want to dive into modern web development. By the end of the bootcamp, attendees will have built a simple yet functional web application using the latest stack.
 
 ---
 
@@ -69,7 +69,7 @@ This 3-day bootcamp is designed for beginners to intermediate-level participants
 
 **2. Building a Simple Backend**
 - Create a FastAPI app with basic routes.
-- Connect to PostgreSQL (using SQLAlchemy or SQLModel).
+- Connect to PostgreSQL (using SQLModel).
 - Build REST APIs for a Todo App.
 - Hands-on: Build and test APIs (e.g., create, read, update, delete todos).
 

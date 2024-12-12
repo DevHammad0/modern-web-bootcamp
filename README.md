@@ -1,5 +1,3 @@
-# modern-web-bootcamp GDGoC ICUP
-
 # Modern Web Development Bootcamp
 
 ## Day 1: Building the Foundation
